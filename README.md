@@ -7,7 +7,7 @@
 
 <h3 align="center">alfred-easy-translate</h3>
 
-<!-- <p align="center"><img src="https://github.com/Nauxscript/alfred-easy-translate/blob/main/example.gif"></p> -->
+<p align="center"><img src="https://github.com/Nauxscript/alfred-easy-translate/blob/main/example.gif"></p>
 
 As the name says 
 
